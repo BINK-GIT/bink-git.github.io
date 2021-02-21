@@ -11,7 +11,7 @@
     <h2>
         My contacts
     </h2>
-        <ul style="list-style: none, padding-left: 0">
+        <ul style="list-style: none padding-left: 0">
             <li><a href="tel:+3801234567">+380 123-45-67</a></li>
             <li><a href="mailto:bink@email.ua">Email</a></li>
             <li>LinkedIn</li>
