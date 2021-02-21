@@ -11,14 +11,11 @@
     <h2>
         My contacts
     </h2>
-        <ul>
+        <ul style="list-style: none">
             <li>+3801234567</li>
             <li>Email</li>
             <li>LinkedIn</li>
         </ul>
-    - first
-    - second
-    - third
     
 </body>
 </html>
