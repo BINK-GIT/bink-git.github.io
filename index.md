@@ -10,6 +10,7 @@
     <img src="/img/profile.jpg" alt="profile" style="width370">
     <h2>
         About me and you
+        email
     </h2>
 </body>
 </html>
