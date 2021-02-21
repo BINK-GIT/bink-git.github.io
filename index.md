@@ -6,11 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>My resume</h1>
+    <h1>Bagnyuk Ivan</h1>
     <img src="/img/profile.jpg" alt="profile" style="width370">
     <h2>
-        About me and you
-        email
+        My contacts
     </h2>
 </body>
 </html>
