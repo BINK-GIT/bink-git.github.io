@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="ua">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,5 +11,11 @@
     <h2>
         My contacts
     </h2>
+        <ul>
+            <li>+3801234567</li>
+            <li>Email</li>
+            <li>LinkedIn</li>
+        </ul>
+
 </body>
 </html>
