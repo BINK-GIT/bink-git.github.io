@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>My resume</h1>
-    <img src="/img/profile.jpg" alt="profile">
+    <img src="/img/profile.jpg" alt="profile" style="width370">
     <h2>
         About me
     </h2>
