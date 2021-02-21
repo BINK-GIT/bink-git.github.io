@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Bagnyuk Ivan</h1>
-    <img src="/img/profile.jpg" alt="profile" style="width370">
+    <img src="/img/profile.jpg" alt="profile" style="width300">
     <h2>
         My contacts
     </h2>
