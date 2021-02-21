@@ -9,7 +9,7 @@
     <h1>My resume</h1>
     <img src="/img/profile.jpg" alt="profile" style="width370">
     <h2>
-        About me
+        About me and you
     </h2>
 </body>
 </html>
