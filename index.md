@@ -21,7 +21,7 @@
             <a href="https://www.linkedin.com/in/bink-one-356848104/" target="_blank">LinkedIn</a>
             </li>
         </ul>
-    <h2 style="background-color: #0366d6; color: #fff">My works</h2>
+    <h2>My works</h2>
         <ol>
             <li><a href="https://github.com/bink-git/homework_01.git" target="_blank">homework_01</a></li>
             <li><a href="https://github.com/bink-git/homework_02.git" target="_blank">homework_02</a></li>
