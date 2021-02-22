@@ -22,8 +22,11 @@
             </li>
         </ul>
     <h2>My works</h2>
-        <a href="https://github.com/bink-git/homework_01.git">homework_01</a>
-        <a href="https://github.com/bink-git/homework_02.git">homework_02</a>
+        <ol>
+            <li><a href="https://github.com/bink-git/homework_01.git">homework_01</a></li>
+            <li><a href="https://github.com/bink-git/homework_02.git">homework_02</a></li>
+        </ol>
+        
 
 
 </body>
