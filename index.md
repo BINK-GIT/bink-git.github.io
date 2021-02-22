@@ -10,11 +10,16 @@
     <img src="/img/profile.jpg" alt="profile" style="width300">
     <h2>My contacts</h2>
         <ul style="list-style: none; padding-left: 0">
-            <li><a href="tel:+3801234567">+380 123-45-67</a></li>
-            <li><a href="mailto:bink@email.ua">Email</a></li>
             <li>
-            <img src="/icons/linkedin.svg" alt="linkedin icon" style="width=15px">
-            <a href="https://www.linkedin.com/in/bink-one-356848104/" target="_blank">LinkedIn</a></li>
+            <img src="/icons/phone.svg" alt="phone icon" style="width: 15px">
+            <a href="tel:+3801234567">+380 123-45-67</a></li>
+            <li>
+            <img src="/icons/email.svg" alt="email icon" style="width: 15px">
+            <a href="mailto:bink@email.ua">Email</a></li>
+            <li>
+            <img src="/icons/linkedin.svg" alt="linkedin icon" style="width: 15px">
+            <a href="https://www.linkedin.com/in/bink-one-356848104/" target="_blank">LinkedIn</a>
+            </li>
         </ul>
     <h2>My works</h2>
 </body>
