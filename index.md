@@ -9,7 +9,7 @@
     <h1>Bagnyuk Ivan</h1>
     <img src="/img/profile.jpg" alt="profile" style="width300">
     <h2>My contacts</h2>
-        <ul style="list-style: none; padding-left: 0">
+        <ul style="list-style: none; padding-left: 0; font-size: 36px">
             <li>
             <img src="/icons/phone.svg" alt="phone icon" style="width: 15px">
             <a href="tel:+3801234567">+380 123-45-67</a></li>
