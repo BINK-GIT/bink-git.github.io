@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Bagnyuk Ivan</h1>
-    <img src="/img/profile.jpg" alt="profile" style="width300">
+    <img src="/img/profile.jpg" alt="profile" style="width: 300px">
     <h2>My contacts</h2>
         <ul style="list-style: none; padding-left: 0; font-size: 24px">
             <li>
