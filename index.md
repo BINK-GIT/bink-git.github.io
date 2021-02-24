@@ -23,8 +23,8 @@
         </ul>
     <h2>My works</h2>
         <ol style="padding-left: 17px">
-            <li><a href="https://github.com/bink-git/beetroot/tree/develop/homework_01" target="_blank">homework_01</a></li>
-            <li><a href="https://github.com/bink-git/beetroot/tree/develop/homework_02" target="_blank">homework_02</a></li>
+            <li><a href="https://github.com/bink-git/beetroot/tree/feature/hw-01" target="_blank">homework_01</a></li>
+            <li><a href="https://github.com/bink-git/beetroot/tree/feature/hw-02" target="_blank">homework_02</a></li>
         </ol>
         
 
